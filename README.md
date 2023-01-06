@@ -1,16 +1,13 @@
-### Hi there 👋
+# TheCaJlaT
+### About
+- I am a Lua developer
+- Currently I am learning JavaScript
+- How to reach me [Telegram](https://t.me/cajlat) [VK](https://vk.me/cajlat)
+### GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TheCaJlaT&theme=transparent&hide_border=true&show_icons=true)
 
-<!--
-**TheCaJlaT/TheCaJlaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCaJlaT&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+### WakaTime Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheCaJlaT&layout=compact&theme=transparent&hide_border=true)](https://wakatime.com/@TheCaJlaT)
